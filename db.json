@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Reebok",
+      "author": "shoes"
+    },
+
+    {
+      "id": 2,
+      "title": "Nike",
+      "author": "Shoes"
+    },
+
+    {
+      "id": 3,
+      "title": "numero Uno",
+      "author": "Tshirt"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
